@@ -1,5 +1,5 @@
 # 날씨API를 활용한 날씨일기 프로젝트
-Use : Spring, Jpa, MySQL, Java
+Use : Spring, Jpa, MySQL, Java  
 Goal : 외부 API를 활용하여 날씨정보를 자동 저장하여 활용한다
 
 ### 구현사항
